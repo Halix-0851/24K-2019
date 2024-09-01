@@ -1,0 +1,72 @@
+
+Objective 2:-
+TASK 02:-
+Start
+ 
+//Input/Output
+Input Num1
+Input Num2
+Input Num3
+ 
+//Initialization:
+Sum=0
+ 
+//Process
+Sum=- (-Num1-Num2-Num3)
+ 
+Output “The sum is”,Sum
+
+
+TASK 03:-
+START
+ 
+//Input/Output
+INPUT Num1
+INPUT Num2
+INPUT Operation
+ 
+ //Initialization:-
+Ans=0 
+ 
+//Conditional Statements 
+ IF Operation ==”+” THEN
+Ans=Num1+Num2
+ELSEIF Operation =”-” THEN
+Ans = Num1-Num2
+OUTPUT “The Answer is:”,Ans
+
+Objective 03:-
+TASK 01:-
+Ask the user to enter Nth number (divisor)
+Ask the user to enter n the number to check if it can be divided by Nth 
+Divide the number n by Nth 
+Set the Ans to the calculated Answer
+Check If Ans is a real number 
+If it is a real number then 
+Check if the number,n  is Even (by dividing it by 2;If real number then the num is even)
+If the result is a real number again then set Even to True
+Display The “Nth” number is divisible by “n”
+Display “The Number is even” If Even is set to True
+ Else Display “The Number is Odd”
+
+
+TASK 03:-
+Ask the user to enter Num1
+Ask the user to enter Num2
+Ask the user to	enter Operator (+,-,*,/,%)
+If the Operator is “+”
+Then Ans will be set to Num1+Num2
+If the Operator is “-”
+The Ans will be set to Num1-Num2
+If the Operator is “*”
+The Ans will be set to Num1*Num2
+If the Operator is “/” then
+Ans will be set to Num1/Num2
+If the Operator is “%” then 
+If the Operator is “%”then
+Ans will be set to the remainder of or MOD of Num1/Num2
+Display “Your Answer is”,Ans
+
+Sir for Tasks regarding Objective 4 I have sent the repository link like you asked me to.
+
+
